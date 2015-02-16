@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map for SimpleRFLink
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RFTransmitter	KEYWORD1
+RFReceiver	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setBaudRate
+dataReady	KEYWORD2
+sendFrame	KEYWORD2
+readData	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
